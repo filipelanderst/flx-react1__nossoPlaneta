@@ -12,7 +12,7 @@ const Header = () => {
             <a href='#one-planet'>
               <img
                 className='img-icons'
-                src='public/img/um-so-planeta.png'
+                src='https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/public/img/um-so-planeta.png'
                 alt='Um só planeta'
               />
               <h2 className='text-center text-[16px] uppercase font-semibold bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-violet-200'>
