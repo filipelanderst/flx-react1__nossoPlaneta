@@ -37,7 +37,7 @@ const Header = () => {
             <a href='#jungles'>
               <img
                 className='img-icons'
-                src='public/img/selvas.png'
+                src='https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/public/img/selvas.png'
                 alt='Selvas'
               />
               <h2 className='text-center text-[16px] uppercase font-semibold bg-clip-text text-transparent bg-gradient-to-r from-lime-400 to-lime-200'>
@@ -73,7 +73,7 @@ const Header = () => {
             <a href='#fresh-water'>
               <img
                 className='img-icons'
-                src='public/img/agua-doce.png'
+                src='https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/public/img/agua-doce.png'
                 alt='Água doce'
               />
               <h2 className='text-center text-[16px] uppercase font-semibold bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-cyan-200'>
