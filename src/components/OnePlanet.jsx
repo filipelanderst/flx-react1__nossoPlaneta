@@ -15,14 +15,14 @@ const OnePlanet = () => {
   return (
     <div id='one-planet' className='grid sm:grid-cols-2'>
       <div className='relative'>
-        <a href='https://www.dropbox.com/home?preview=our-planet-teaser.mp4'>
+        <a href='https://mega.nz/file/ZIpmUAzJ#t-Pr2ggAporleQDxHDCZMsJCKfw8dSOWTBKJIt7r1z8'>
           <img
             src='https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/public/img/one-planet.png'
             alt=''
           />
         </a>
         <div className='play-icon'>
-          <a href='https://www.dropbox.com/home?preview=our-planet-teaser.mp4'>
+          <a href='https://mega.nz/file/ZIpmUAzJ#t-Pr2ggAporleQDxHDCZMsJCKfw8dSOWTBKJIt7r1z8'>
             <svg
               xmlns='http://www.w3.org/2000/svg'
               fill='none'
