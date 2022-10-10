@@ -4,11 +4,11 @@ const Jungles = () => {
   return (
     <div id='jungles' className='grid sm:grid-cols-2'>
       <div className='relative'>
-        <a href='public/our-planet-teaser.mp4'>
-          <img src='public/jungles.png' alt='' />
+        <a href='public/video/our-planet-teaser.mp4'>
+          <img src='public/img/jungles.png' alt='' />
         </a>
         <div className='play-icon'>
-          <a href='public/our-planet-teaser.mp4'>
+          <a href='public/video/our-planet-teaser.mp4'>
             <svg
               xmlns='http://www.w3.org/2000/svg'
               fill='none'
