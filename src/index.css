@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --marine: #02021b;
+}
+
+.bg-marine {
+  background-color: var(--marine);
+}
+
+p {
+  @apply mx-4 mt-4 mb-8 text-slate-800;
+}
+
+.title {
+  @apply text-4xl font-semibold mt-4 mb-8 mx-2 text-slate-900;
+}
+
+.app-container {
+  margin: 0 auto;
+}
+
+.img-icons {
+  @apply w-32 h-32 rounded-full mx-4 my-2;
+  object-fit: cover;
+  max-width: 300px;
+}
+
+.btn {
+  @apply mx-4 px-6 py-2 border border-slate-900 rounded-md font-semibold;
+}
+
+.btn:hover {
+  background-color: var(--marine);
+  color: white;
+}
+
+.dev-icons {
+  max-width: 40px;
+  padding: 4px;
+}
+
+.play-icon {
+  position: absolute;
+  max-width: 96px;
+  bottom: 50%;
+  left: 50%;
+  transform: translate(-50%, 50%);
+}
