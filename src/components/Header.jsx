@@ -11,7 +11,7 @@ const Header = () => {
           <li>
             <a href='#one-planet'>
               <img
-                className='img-icons'
+                className='img-icons bg-one-planet'
                 src='https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/public/img/um-so-planeta.png'
                 alt='Um só planeta'
               />
@@ -24,7 +24,7 @@ const Header = () => {
           <li>
             <a href='#frozen-worlds'>
               <img
-                className='img-icons'
+                className='img-icons bg-frozen'
                 src='https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/public/img/mundos-congelados.png'
                 alt='Mundos Congelados'
               />
@@ -34,9 +34,9 @@ const Header = () => {
             </a>
           </li>
           <li>
-            <a href='#jungles'>
+            <a href='#jungles '>
               <img
-                className='img-icons'
+                className='img-icons bg-jungles'
                 src='https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/public/img/selvas.png'
                 alt='Selvas'
               />
@@ -48,7 +48,7 @@ const Header = () => {
           <li>
             <a href='#forests'>
               <img
-                className='img-icons'
+                className='img-icons bg-forests'
                 src='https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/public/img/florestas.png'
                 alt='Florestas'
               />
@@ -60,7 +60,7 @@ const Header = () => {
           <li>
             <a href='#desert-fields'>
               <img
-                className='img-icons'
+                className='img-icons bg-deserts'
                 src='https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/public/img/desertos-campos.png'
                 alt='Campos'
               />
@@ -72,7 +72,7 @@ const Header = () => {
           <li>
             <a href='#fresh-water'>
               <img
-                className='img-icons'
+                className='img-icons bg-fresh-water'
                 src='https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/public/img/agua-doce.png'
                 alt='Água doce'
               />
@@ -84,7 +84,7 @@ const Header = () => {
           <li>
             <a href='#coastal-seas'>
               <img
-                className='img-icons'
+                className='img-icons bg-coastal-seas'
                 src='https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/public/img/mares-costeiras.png'
                 alt='Marés Costeiras'
               />
@@ -96,7 +96,7 @@ const Header = () => {
           <li>
             <a href='#high-seas'>
               <img
-                className='img-icons'
+                className='img-icons bg-high-seas'
                 src='https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/public/img/alto-mar.png'
                 alt='O alto mar'
               />
