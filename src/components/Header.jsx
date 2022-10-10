@@ -25,7 +25,7 @@ const Header = () => {
             <a href='#frozen-worlds'>
               <img
                 className='img-icons'
-                src='public/img/mundos-congelados.png'
+                src='https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/public/img/mundos-congelados.png'
                 alt='Mundos Congelados'
               />
               <h2 className='text-center text-[16px] uppercase font-semibold bg-clip-text text-transparent bg-gradient-to-r from-sky-400 to-sky-200'>
@@ -49,7 +49,7 @@ const Header = () => {
             <a href='#forests'>
               <img
                 className='img-icons'
-                src='public/img/florestas.png'
+                src='https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/public/img/florestas.png'
                 alt='Florestas'
               />
               <h2 className='text-center text-[16px] uppercase font-semibold bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-green-200'>
@@ -61,7 +61,7 @@ const Header = () => {
             <a href='#desert-fields'>
               <img
                 className='img-icons'
-                src='public/img/desertos-campos.png'
+                src='https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/public/img/desertos-campos.png'
                 alt='Campos'
               />
               <h2 className='text-center text-[16px] uppercase font-semibold bg-clip-text text-transparent bg-gradient-to-r from-amber-400 to-yellow-200'>
@@ -85,7 +85,7 @@ const Header = () => {
             <a href='#coastal-seas'>
               <img
                 className='img-icons'
-                src='public/img/mares-costeiras.png'
+                src='https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/public/img/mares-costeiras.png'
                 alt='Marés Costeiras'
               />
               <h2 className='text-center text-[16px] uppercase font-semibold bg-clip-text text-transparent bg-gradient-to-r from-emerald-400 to-sky-200'>
@@ -97,7 +97,7 @@ const Header = () => {
             <a href='#high-seas'>
               <img
                 className='img-icons'
-                src='public/img/alto-mar.png'
+                src='https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/public/img/alto-mar.png'
                 alt='O alto mar'
               />
               <h2 className='text-center text-[16px] uppercase font-semibold bg-clip-text text-transparent bg-gradient-to-r from-sky-400 to-cyan-200'>

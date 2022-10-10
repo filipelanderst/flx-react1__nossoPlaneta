@@ -5,7 +5,10 @@ const FrozenWorlds = () => {
     <div id='frozen-worlds' className='grid sm:grid-cols-2'>
       <div className='relative'>
         <a href='public/video/our-planet-teaser.mp4'>
-          <img src='public/img/frozen-worlds.png' alt='' />
+          <img
+            src='https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/public/img/frozen-worlds.png'
+            alt=''
+          />
         </a>
         <div className='play-icon'>
           <a href='public/video/our-planet-teaser.mp4'>
