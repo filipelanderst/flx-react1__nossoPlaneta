@@ -12,7 +12,7 @@ const Header = () => {
             <a href='#one-planet'>
               <img
                 className='img-icons'
-                src='src\img\um-so-planeta.png'
+                src='public/um-so-planeta.png'
                 alt='Um só planeta'
               />
               <h2 className='text-center text-[16px] uppercase font-semibold bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-violet-200'>
@@ -24,7 +24,7 @@ const Header = () => {
             <a href='#frozen-worlds'>
               <img
                 className='img-icons'
-                src='src\img\mundos-congelados.png'
+                src='public/mundos-congelados.png'
                 alt='Mundos Congelados'
               />
               <h2 className='text-center text-[16px] uppercase font-semibold bg-clip-text text-transparent bg-gradient-to-r from-sky-400 to-sky-200'>
@@ -34,11 +34,7 @@ const Header = () => {
           </li>
           <li>
             <a href='#jungles'>
-              <img
-                className='img-icons'
-                src='src\img\selvas.png'
-                alt='Selvas'
-              />
+              <img className='img-icons' src='public/selvas.png' alt='Selvas' />
               <h2 className='text-center text-[16px] uppercase font-semibold bg-clip-text text-transparent bg-gradient-to-r from-lime-400 to-lime-200'>
                 Selvas
               </h2>
@@ -48,7 +44,7 @@ const Header = () => {
             <a href='#forests'>
               <img
                 className='img-icons'
-                src='src\img\florestas.png'
+                src='public/florestas.png'
                 alt='Florestas'
               />
               <h2 className='text-center text-[16px] uppercase font-semibold bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-green-200'>
@@ -60,7 +56,7 @@ const Header = () => {
             <a href='#desert-fields'>
               <img
                 className='img-icons'
-                src='src\img\desertos-campos.png'
+                src='public/desertos-campos.png'
                 alt='Campos'
               />
               <h2 className='text-center text-[16px] uppercase font-semibold bg-clip-text text-transparent bg-gradient-to-r from-amber-400 to-yellow-200'>
@@ -72,7 +68,7 @@ const Header = () => {
             <a href='#fresh-water'>
               <img
                 className='img-icons'
-                src='src\img\agua-doce.png'
+                src='public/agua-doce.png'
                 alt='Água doce'
               />
               <h2 className='text-center text-[16px] uppercase font-semibold bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-cyan-200'>
@@ -84,7 +80,7 @@ const Header = () => {
             <a href='#coastal-seas'>
               <img
                 className='img-icons'
-                src='src\img\mares-costeiras.png'
+                src='public/mares-costeiras.png'
                 alt='Marés Costeiras'
               />
               <h2 className='text-center text-[16px] uppercase font-semibold bg-clip-text text-transparent bg-gradient-to-r from-emerald-400 to-sky-200'>
@@ -96,7 +92,7 @@ const Header = () => {
             <a href='#high-seas'>
               <img
                 className='img-icons'
-                src='src\img\alto-mar.png'
+                src='public/alto-mar.png'
                 alt='O alto mar'
               />
               <h2 className='text-center text-[16px] uppercase font-semibold bg-clip-text text-transparent bg-gradient-to-r from-sky-400 to-cyan-200'>

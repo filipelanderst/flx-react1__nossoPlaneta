@@ -4,11 +4,11 @@ const FrozenWorlds = () => {
   return (
     <div id='frozen-worlds' className='grid sm:grid-cols-2'>
       <div className='relative'>
-        <a href='src/video/our-planet-teaser.mp4'>
-          <img src='src/img/frozen-worlds.png' alt='' />
+        <a href='public/our-planet-teaser.mp4'>
+          <img src='public/frozen-worlds.png' alt='' />
         </a>
         <div className='play-icon'>
-          <a href='src/video/our-planet-teaser.mp4'>
+          <a href='public/our-planet-teaser.mp4'>
             <svg
               xmlns='http://www.w3.org/2000/svg'
               fill='none'
