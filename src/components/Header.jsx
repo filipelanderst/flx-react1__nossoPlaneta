@@ -1,5 +1,4 @@
 import React from 'react';
-const x = 'public/one-planet.png';
 
 const Header = () => {
   return (
@@ -11,10 +10,9 @@ const Header = () => {
         <ul className='flex xl:justify-center overflow-x-auto'>
           <li>
             <a href='#one-planet'>
-              <img src={x} />
               <img
                 className='img-icons'
-                src='public/um-so-planeta.png'
+                src='../public/um-so-planeta.png'
                 alt='Um só planeta'
               />
               <h2 className='text-center text-[16px] uppercase font-semibold bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-violet-200'>
