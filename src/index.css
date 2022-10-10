@@ -29,7 +29,7 @@ p {
 }
 
 .bg-one-planet {
-  @apply bg-gradient-to-r from-purple-400 to-violet-200;
+  @apply bg-gradient-to-r  from-purple-400 to-violet-200;
 }
 
 .bg-frozen {
