@@ -1,5 +1,15 @@
 # flx-react1__nossoPlaneta
 
+  <div>
+    <img
+      style="width: 30px"
+      src="https://cdn-icons-png.flaticon.com/512/7481/7481506.png"
+      alt="verificado"
+    />
+  </div>
+  
+  **Projeto original**
+    
 Projeto inspirado na série [Nosso Planeta](https://www.netflix.com/br/title/80049832) da **Netflix**.
 
 __Link da página:__ [https://nosso-planeta.vercel.app/](https://nosso-planeta.vercel.app/)
@@ -38,8 +48,6 @@ __Link da página:__ [https://nosso-planeta.vercel.app/](https://nosso-planeta.v
         alt="Tailwind"
       />
     </div>
-
-<br>
 
 ## Captura de Tela (Desktop)
 ![Captura de tela](https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/screeshot-nossoPlaneta(Desktop).png)
