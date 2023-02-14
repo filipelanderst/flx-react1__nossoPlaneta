@@ -2,15 +2,14 @@
 
   <div>
     <img
-      style="width: 30px"
-      src="https://cdn-icons-png.flaticon.com/512/7481/7481506.png"
-      alt="verificado"
+      style="width: 300px"
+      src="https://raw.githubusercontent.com/flx-lander7/resources/main/Original.png?token=GHSAT0AAAAAAB4VY3OJ4L4TUR7E7K7BU7NKY6OQWPQ"
+      alt="tutorial"
     />
   </div>
-  
-  **Projeto original**
+ 
     
-Projeto inspirado na série [Nosso Planeta](https://www.netflix.com/br/title/80049832) da **Netflix**.
+Projeto inspirado na série **Nosso Planeta** da **NETFLIX**
 
 __Link da página:__ [https://nosso-planeta.vercel.app/](https://nosso-planeta.vercel.app/)
 
@@ -50,8 +49,9 @@ __Link da página:__ [https://nosso-planeta.vercel.app/](https://nosso-planeta.v
     </div>
 
 ## Captura de Tela (Desktop)
-![Captura de tela](https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/screeshot-nossoPlaneta(Desktop).png)
+<img style="width: 120vh" src="https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/nossoPlaneta(desktop1).avif"/>
 
+<br>
 
 ## Captura de Tela (Mobile)
-![Captura de tela](https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/screeshot-nossoPlaneta(Mobile).png)
+<img style="width: 30vh" src="https://raw.githubusercontent.com/flx-lander7/flx-react1__nossoPlaneta/main/nossoPlaneta(mobile1).avif"/>
